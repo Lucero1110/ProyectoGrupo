@@ -7,3 +7,8 @@ print("se usaran funciones para sumar, restar, multiplicar y dificir dos número
 
 a=10
 b=20
+
+def suma():
+    print(a+b)
+
+suma()
