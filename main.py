@@ -17,3 +17,11 @@ def suma():
     print(a+b)
 
 suma()
+
+def multi():
+    print(a*b)
+    #Brau#
+
+def divi():
+    print(a/b)
+    #Brau#
