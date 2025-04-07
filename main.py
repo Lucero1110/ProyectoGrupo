@@ -20,4 +20,5 @@ suma()
 
 
 def mult():
-    print(a*b)
+    p = (a/b)*100
+    print(f'El porcentaje de a sobre b es {p}%')
