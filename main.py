@@ -18,7 +18,19 @@ def suma():
 
 suma()
 
-
-def mult():
+def porcentaje():
     p = (a/b)*100
     print(f'El porcentaje de a sobre b es {p}%')
+    
+porcentaje() 
+    
+def multi():
+    print(a*b)
+    #Brau#
+    
+multi()    
+
+def divi():
+    print(a/b)
+    #Brau#
+divi()    
