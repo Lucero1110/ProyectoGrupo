@@ -17,3 +17,7 @@ def suma():
     print(a+b)
 
 suma()
+
+
+def mult():
+    print(a*b)
